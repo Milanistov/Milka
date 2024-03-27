@@ -1,4 +1,4 @@
-﻿# A first level header
+# A first level header
 ## A first level header
 ### A third level header
 #### A fourth level header
@@ -39,9 +39,9 @@ $$E=mc^2$$
 2. Item2
     
 | **Header 1** | **Header 2** |
-| -----------  | -----------  |
-| Cell  1      | Cell  2     |
-| Cell  3      | Cell  4     |
+| ------------ | ------------ |
+| Cell  1      | Cell  2      |
+| Cell  3      | Cell  4      |
 
 
 $ E = mc^2$
