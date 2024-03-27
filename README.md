@@ -44,5 +44,5 @@ $$E=mc^2$$
 | Cell  3      | Cell  4     |
 
 
-$ E = mc^2$
+$E = mc^2$
 DONT open
